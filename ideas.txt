@@ -1,0 +1,72 @@
+
+------------------------------------- 5 Ideas -----------------------------------------------------------
+
+1. Site for sell christian painting.
+
+        * DataBase (users_account/ paintings_list/types_payments / recive_news)
+        * backend (node.js)
+        * frontend (html, css, javascript, react)
+        * Interactive web form features :
+                1. select paintings that you like;
+                2. select the image size;
+                3. Add the cart;
+                4. Save for later;
+                5. Payment.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+2. Site random motivations phrases for study programming.
+        
+        * DataBase (users/ random_phases/ recive_phrases_email)
+        * backend (node.js)
+        * frontend (html, css, javascript, react)
+        * Interactive web form features :
+                1. push button for start see the phrase;
+                2. change for next phrases;
+                3. save phrase;
+               
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+3. Travel project with react.
+ Travel Hypothetical is a site for people who want to share their travel stories and inspire others.
+
+* DataBase (countries/ visited_cities)
+        * backend (node.js)
+        * frontend (html, css, javascript, react)
+        * Interactive web form features :
+                1. view others historys;
+                2. add your history;
+                3. delete history;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+4. Website Agency for voluntary tech girls: NinasTech
+
+Website where people can sign up and keep in touch;
+Community group of Brazilian girls, share their stories and inspire others.
+
+  * DataBase (view_historys/ add_historys)
+        * backend (node.js)
+        * frontend (html, css, javascript, react)
+        * Interactive web form features :
+                1. select which history do you wanna read;
+                2. add your history;
+                3. add your image;
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+5. Project with a real company.
+Guest check in system for members of  a leisure and recreation company.
+ Website so that members who use company resources can provide guest to people who are not members "friends", allowing them to use the resources for a while.
+         * DataBase (members_id/ add_friends / data_expiration/ available_days / resources_options)
+        * backend (node.js)
+        * frontend (html, css, javascript, react)
+        * Interactive web form features :
+                1. select days that you can use;
+                2. add your friend;
+                3. which resources they wanna use;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
